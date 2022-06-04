@@ -1,4 +1,4 @@
-FROM anasty17/mltb64:latest
+FROM anasty17/mltb:arm64
 # FROM anasty17/mltb-oracle:latest
 
 WORKDIR /usr/src/app
